@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Retro MP3 Player</string>
+    <string name="unknown">Unknown</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_name">Now Playing: %1$s</string>
+    <string name="playing">Playing…</string>
+    <string name="paused">Paused</string>
+    <string name="completed">Completed</string>
+    <string name="open">Open</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+        <string name="equalizer">Equalizer</string>
+        <string name="enable_eq">Enable</string>
+        <string name="band_hz">%1$d Hz</string>
+        <string name="gain_db">%1$d dB</string>
+</resources>
